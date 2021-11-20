@@ -1,6 +1,6 @@
 # Hello
 
-Blank repository that may be used as starting point for Cloud Development environment such as gitpod.
+Blank repository that can be used as starting point for Cloud Development environment such as gitpod.
 
 ## Next Steps
 
